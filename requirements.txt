@@ -1,0 +1,6 @@
+flask
+flask-login
+deep-translator
+scikit-learn
+numpy
+gunicorn
